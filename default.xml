@@ -18,10 +18,6 @@
 
   <remote  name="tm"
            fetch="git://github.com/TheMuppets/" />
-           
-  <remote  name="gh"
-           fetch="https://github.com/"
-           sync-j="4" />
 
   <default revision="refs/heads/jb3"
            remote="cr"
